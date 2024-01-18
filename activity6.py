@@ -1,0 +1,10 @@
+a = float(input('Choose a nummber: '))
+b = float(input('Choose another nummber: '))
+print (a+b)
+print (a-b)
+print (a*b)
+print (a/b)
+print (a//b)
+print (a%b)
+print (a**b)
+#can expand by writing which function was preformed
